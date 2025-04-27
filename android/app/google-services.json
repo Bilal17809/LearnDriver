@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445936331172",
+    "project_id": "learn-driving-1ad82",
+    "storage_bucket": "learn-driving-1ad82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445936331172:android:67708d8cd84f5237a87931",
+        "android_client_info": {
+          "package_name": "com.example.learn_driving"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5SwhU6HikLms-2pZnYUHYPX66UT_CrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
